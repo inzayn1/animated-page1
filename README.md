@@ -2,6 +2,7 @@
 ## <a name="introduction">🤖 Introduction</a>
 
 Build a visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/96ccb518-2e27-4bfd-9816-30eba2997063" />
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
